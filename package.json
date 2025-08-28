@@ -1,10 +1,1 @@
-{
-  "name": "gemini-proxy",
-  "version": "1.0.0",
-  "main": "api/chat.js",
-  "type": "module",
-  "scripts": {
-    "start": "vercel dev"
-  },
-  "dependencies": {}
-}
+
